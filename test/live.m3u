@@ -373,7 +373,7 @@ http://192.168.0.109:1111/962106524
 http://192.168.0.109:1111/962106575
 #EXTINF:-1 tvg-id="决赛：辽宁极兔李永波1-3厦门银行" tvg-name="羽超联赛 决赛：辽宁极兔李永波1-3厦门银行 【全场回放】辽宁极兔李永波1-3厦门银行（杨妮娜） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png" group-title="体育-昨天",羽超联赛 决赛：辽宁极兔李永波1-3厦门银行 【全场回放】辽宁极兔李永波1-3厦门银行（杨妮娜） 18:00
 http://192.168.0.109:1111/962106594
-#EXTINF:-1 tvg-id="决赛：辽宁极兔李永波1-3厦门银行" tvg-name="羽超联赛 决赛：辽宁极兔李永波1-3厦门银行 25/26赛季中国羽毛球俱乐部超级联赛冠军争夺战全场回放：辽宁极兔李永波1-3厦门银行 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png" group-title="体育-昨天",羽超联赛 决赛：辽宁极兔李永波1-3厦门银行 25/26赛季中国羽毛球俱乐部超级联赛冠军争夺战全场回放：辽宁极兔李永波1-3厦门银行 18:00
+#EXTINF:-1 tvg-id="决赛：辽宁极兔李永波1-3厦门银行" tvg-name="羽超联赛 决赛：辽宁极兔李永波1-3厦门银行 【全场回放】辽宁极兔李永波1-3厦门银行 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png" group-title="体育-昨天",羽超联赛 决赛：辽宁极兔李永波1-3厦门银行 【全场回放】辽宁极兔李永波1-3厦门银行 18:00
 http://192.168.0.109:1111/962107078
 #EXTINF:-1 tvg-id="决赛：辽宁极兔李永波1-3厦门银行" tvg-name="羽超联赛 决赛：辽宁极兔李永波1-3厦门银行 【全场回放】辽宁极兔李永波1-3厦门银行（王煜豪） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png" group-title="体育-昨天",羽超联赛 决赛：辽宁极兔李永波1-3厦门银行 【全场回放】辽宁极兔李永波1-3厦门银行（王煜豪） 18:00
 http://192.168.0.109:1111/962106592
@@ -413,11 +413,9 @@ http://192.168.0.109:1111/962107764
 http://192.168.0.109:1111/962107626
 #EXTINF:-1 tvg-id="巴列卡诺VS赫塔菲" tvg-name="西甲 巴列卡诺VS赫塔菲 全场回放 (洪宇青) 03:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-今天",西甲 巴列卡诺VS赫塔菲 全场回放 (洪宇青) 03:45
 http://192.168.0.109:1111/962107757
-#EXTINF:-1 tvg-id="朱琳、张之臻代表中国队出战！" tvg-name="网球联合杯 朱琳、张之臻代表中国队出战！ 清流 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-今天",网球联合杯 朱琳、张之臻代表中国队出战！ 清流 07:00
-http://192.168.0.109:1111/962104392
-#EXTINF:-1 tvg-id="朱琳、张之臻代表中国队出战！" tvg-name="网球联合杯 朱琳、张之臻代表中国队出战！ 清流 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-今天",网球联合杯 朱琳、张之臻代表中国队出战！ 清流 07:00
+#EXTINF:-1 tvg-id="张之臻男单闪耀！中国2-1比利时" tvg-name="网球联合杯 张之臻男单闪耀！中国2-1比利时 清流 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-今天",网球联合杯 张之臻男单闪耀！中国2-1比利时 清流 07:00
 http://192.168.0.109:1111/962091846
-#EXTINF:-1 tvg-id="朱琳、张之臻代表中国队出战！" tvg-name="网球联合杯 朱琳、张之臻代表中国队出战！ 英文解说 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-今天",网球联合杯 朱琳、张之臻代表中国队出战！ 英文解说 07:00
+#EXTINF:-1 tvg-id="张之臻男单闪耀！中国2-1比利时" tvg-name="网球联合杯 张之臻男单闪耀！中国2-1比利时 英文解说 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-今天",网球联合杯 张之臻男单闪耀！中国2-1比利时 英文解说 07:00
 http://192.168.0.109:1111/962091853
 #EXTINF:-1 tvg-id="步行者VS马刺" tvg-name="NBA 步行者VS马刺 全场回放 (徐秦威) 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 步行者VS马刺 全场回放 (徐秦威) 07:55
 http://192.168.0.109:1111/962109161
@@ -429,6 +427,8 @@ http://192.168.0.109:1111/962109143
 http://192.168.0.109:1111/962110847
 #EXTINF:-1 tvg-id="尼克斯VS老鹰" tvg-name="NBA 尼克斯VS老鹰 全场回放（刘沛元） 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 尼克斯VS老鹰 全场回放（刘沛元） 08:25
 http://192.168.0.109:1111/962109474
+#EXTINF:-1 tvg-id="尼克斯VS老鹰" tvg-name="NBA 尼克斯VS老鹰 全场回放（英文原声） 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 尼克斯VS老鹰 全场回放（英文原声） 08:25
+http://192.168.0.109:1111/962109989
 #EXTINF:-1 tvg-id="骑士VS掘金" tvg-name="NBA 骑士VS掘金 全场回放 (李天宇) 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 骑士VS掘金 全场回放 (李天宇) 08:25
 http://192.168.0.109:1111/962109435
 #EXTINF:-1 tvg-id="骑士VS掘金" tvg-name="NBA 骑士VS掘金 全场回放（英文原声） 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 骑士VS掘金 全场回放（英文原声） 08:25
@@ -441,12 +441,12 @@ http://192.168.0.109:1111/962110431
 http://192.168.0.109:1111/962109859
 #EXTINF:-1 tvg-id="雄鹿VS黄蜂" tvg-name="NBA 雄鹿VS黄蜂 全场回放（英文原声） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS黄蜂 全场回放（英文原声） 08:55
 http://192.168.0.109:1111/962110232
-#EXTINF:-1 tvg-id="鹈鹕VS开拓者" tvg-name="NBA 鹈鹕VS开拓者 【全场回放】 鹈鹕vs开拓者 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 鹈鹕VS开拓者 【全场回放】 鹈鹕vs开拓者 08:55
-http://192.168.0.109:1111/962110493
 #EXTINF:-1 tvg-id="鹈鹕VS开拓者" tvg-name="NBA 鹈鹕VS开拓者 全场回放 (刘圳展、陈正昊、廖昕阳) 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 鹈鹕VS开拓者 全场回放 (刘圳展、陈正昊、廖昕阳) 08:55
 http://192.168.0.109:1111/962109872
 #EXTINF:-1 tvg-id="鹈鹕VS开拓者" tvg-name="NBA 鹈鹕VS开拓者 全场回放 (邢晨) 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 鹈鹕VS开拓者 全场回放 (邢晨) 08:55
 http://192.168.0.109:1111/962109894
+#EXTINF:-1 tvg-id="鹈鹕VS开拓者" tvg-name="NBA 鹈鹕VS开拓者 全场回放（英文原声） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 鹈鹕VS开拓者 全场回放（英文原声） 08:55
+http://192.168.0.109:1111/962110493
 #EXTINF:-1 tvg-id="复活赛6进4 PK赛" tvg-name="呼叫钓坛王者 复活赛6进4 PK赛 官方解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/15/1000000013861061b14e.png" group-title="体育-今天",呼叫钓坛王者 复活赛6进4 PK赛 官方解说 09:00
 http://192.168.0.109:1111/961199438
 #EXTINF:-1 tvg-id="复活赛6进4 PK赛" tvg-name="呼叫钓坛王者 复活赛6进4 PK赛 选手视角 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/15/1000000013861061b14e.png" group-title="体育-今天",呼叫钓坛王者 复活赛6进4 PK赛 选手视角 09:00
@@ -455,8 +455,22 @@ http://192.168.0.109:1111/961251363
 http://192.168.0.109:1111/961251378
 #EXTINF:-1 tvg-id="太阳VS国王" tvg-name="NBA 太阳VS国王 全场回放（周鹏） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS国王 全场回放（周鹏） 09:55
 http://192.168.0.109:1111/962110901
+#EXTINF:-1 tvg-id="太阳VS国王" tvg-name="NBA 太阳VS国王 全场回放（英文原声） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS国王 全场回放（英文原声） 09:55
+http://192.168.0.109:1111/962112827
+#EXTINF:-1 tvg-id="勇士VS雷霆" tvg-name="NBA 勇士VS雷霆 全场回放（孙博、曾令旭、刘铁、小七） 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS雷霆 全场回放（孙博、曾令旭、刘铁、小七） 10:55
+http://192.168.0.109:1111/962111278
+#EXTINF:-1 tvg-id="勇士VS雷霆" tvg-name="NBA 勇士VS雷霆 全场回放（洪荒） 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS雷霆 全场回放（洪荒） 10:55
+http://192.168.0.109:1111/962111414
+#EXTINF:-1 tvg-id="勇士VS雷霆" tvg-name="NBA 勇士VS雷霆 全场回放（莫俊祺） 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS雷霆 全场回放（莫俊祺） 10:55
+http://192.168.0.109:1111/962111347
 #EXTINF:-1 tvg-id="勇士VS雷霆" tvg-name="NBA 勇士VS雷霆 全场回放 (拜月宁) 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS雷霆 全场回放 (拜月宁) 10:55
 http://192.168.0.109:1111/962111273
+#EXTINF:-1 tvg-id="湖人VS灰熊" tvg-name="NBA 湖人VS灰熊 全场回放（杨健、马健、佳依） 11:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS灰熊 全场回放（杨健、马健、佳依） 11:25
+http://192.168.0.109:1111/962111765
+#EXTINF:-1 tvg-id="湖人VS灰熊" tvg-name="NBA 湖人VS灰熊 全场回放（郑泽鹏） 11:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS灰熊 全场回放（郑泽鹏） 11:25
+http://192.168.0.109:1111/962111799
+#EXTINF:-1 tvg-id="湖人VS灰熊" tvg-name="NBA 湖人VS灰熊 全场回放（英文原声） 11:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS灰熊 全场回放（英文原声） 11:25
+http://192.168.0.109:1111/962112409
 #EXTINF:-1 tvg-id="开州汉丰湖队VS丰都南天湖队" tvg-name="重庆城市足球超级联赛 开州汉丰湖队VS丰都南天湖队 25/26赛季重庆城市足球超级联赛: 开州汉丰湖队vs丰都南天湖队 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" group-title="体育-今天",重庆城市足球超级联赛 开州汉丰湖队VS丰都南天湖队 25/26赛季重庆城市足球超级联赛: 开州汉丰湖队vs丰都南天湖队 15:00
 http://192.168.0.109:1111/962037912
 #EXTINF:-1 tvg-id="两江深蓝汽车队VS两江临空队" tvg-name="重庆城市足球超级联赛 两江深蓝汽车队VS两江临空队 25/26赛季重庆城市足球超级联赛: 两江深蓝汽车队vs两江临空队 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" group-title="体育-今天",重庆城市足球超级联赛 两江深蓝汽车队VS两江临空队 25/26赛季重庆城市足球超级联赛: 两江深蓝汽车队vs两江临空队 15:00
@@ -467,14 +481,14 @@ http://192.168.0.109:1111/962038168
 http://192.168.0.109:1111/962038178
 #EXTINF:-1 tvg-id="沙坪坝陈昌银队VS巴南生物城队" tvg-name="重庆城市足球超级联赛 沙坪坝陈昌银队VS巴南生物城队 25/26赛季重庆城市足球超级联赛: 沙坪坝陈昌银队vs巴南生物城队 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" group-title="体育-今天",重庆城市足球超级联赛 沙坪坝陈昌银队VS巴南生物城队 25/26赛季重庆城市足球超级联赛: 沙坪坝陈昌银队vs巴南生物城队 15:00
 http://192.168.0.109:1111/962038184
-#EXTINF:-1 tvg-id="玉溪队VS红河队" tvg-name="云南省城市足球联赛 玉溪队VS红河队 25/26赛季云南省城市足球联赛第三轮: 玉溪队VS红河队 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png" group-title="体育-今天",云南省城市足球联赛 玉溪队VS红河队 25/26赛季云南省城市足球联赛第三轮: 玉溪队VS红河队 15:00
-http://192.168.0.109:1111/962038473
-#EXTINF:-1 tvg-id="临沧队VS西双版纳队" tvg-name="云南省城市足球联赛 临沧队VS西双版纳队 25/26赛季云南省城市足球联赛第三轮: 临沧队VS西双版纳队 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png" group-title="体育-今天",云南省城市足球联赛 临沧队VS西双版纳队 25/26赛季云南省城市足球联赛第三轮: 临沧队VS西双版纳队 15:00
-http://192.168.0.109:1111/962038500
-#EXTINF:-1 tvg-id="昭通队VS怒江队" tvg-name="云南省城市足球联赛 昭通队VS怒江队 25/26赛季云南省城市足球联赛第三轮: 昭通队VS怒江队 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png" group-title="体育-今天",云南省城市足球联赛 昭通队VS怒江队 25/26赛季云南省城市足球联赛第三轮: 昭通队VS怒江队 15:00
-http://192.168.0.109:1111/962038521
-#EXTINF:-1 tvg-id="保山队VS楚雄队" tvg-name="云南省城市足球联赛 保山队VS楚雄队 25/26赛季云南省城市足球联赛第三轮: 保山队VS楚雄队 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png" group-title="体育-今天",云南省城市足球联赛 保山队VS楚雄队 25/26赛季云南省城市足球联赛第三轮: 保山队VS楚雄队 15:30
-http://192.168.0.109:1111/962038518
+#EXTINF:-1 tvg-id="玉溪队VS红河队" tvg-name="云南省城市足球联赛 玉溪队VS红河队 【全场回放】 玉溪队vs红河队 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png" group-title="体育-今天",云南省城市足球联赛 玉溪队VS红河队 【全场回放】 玉溪队vs红河队 15:00
+http://192.168.0.109:1111/962114879
+#EXTINF:-1 tvg-id="临沧队VS西双版纳队" tvg-name="云南省城市足球联赛 临沧队VS西双版纳队 【全场回放】 临沧队vs西双版纳队 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png" group-title="体育-今天",云南省城市足球联赛 临沧队VS西双版纳队 【全场回放】 临沧队vs西双版纳队 15:00
+http://192.168.0.109:1111/962115113
+#EXTINF:-1 tvg-id="昭通队VS怒江队" tvg-name="云南省城市足球联赛 昭通队VS怒江队 【全场回放】 昭通队vs怒江队 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png" group-title="体育-今天",云南省城市足球联赛 昭通队VS怒江队 【全场回放】 昭通队vs怒江队 15:00
+http://192.168.0.109:1111/962114836
+#EXTINF:-1 tvg-id="保山队VS楚雄队" tvg-name="云南省城市足球联赛 保山队VS楚雄队 【全场回放】 保山队vs楚雄队 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png" group-title="体育-今天",云南省城市足球联赛 保山队VS楚雄队 【全场回放】 保山队vs楚雄队 15:30
+http://192.168.0.109:1111/962115739
 #EXTINF:-1 tvg-id="单打卫冕！樊振东成就全运会六金王" tvg-name="乒乓球经典赛事 单打卫冕！樊振东成就全运会六金王 经典赛事 19:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EMT10RN3F.png" group-title="体育-今天",乒乓球经典赛事 单打卫冕！樊振东成就全运会六金王 经典赛事 19:00
 http://192.168.0.109:1111/962027682
 #EXTINF:-1 tvg-id="奉节诗橙队VS忠县烽烟三国队" tvg-name="重庆城市足球超级联赛 奉节诗橙队VS忠县烽烟三国队 25/26赛季重庆城市足球超级联赛: 奉节诗橙队vs忠县烽烟三国队 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" group-title="体育-今天",重庆城市足球超级联赛 奉节诗橙队VS忠县烽烟三国队 25/26赛季重庆城市足球超级联赛: 奉节诗橙队vs忠县烽烟三国队 19:00
@@ -597,11 +611,11 @@ http://192.168.0.109:1111/962099146
 http://192.168.0.109:1111/961468302
 #EXTINF:-1 tvg-id="热火VS森林狼" tvg-name="NBA 热火VS森林狼 英文原声 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 热火VS森林狼 英文原声 05:55
 http://192.168.0.109:1111/961468298
-#EXTINF:-1 tvg-id="网球联合杯Day3" tvg-name="网球联合杯 网球联合杯Day3 清流 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-明天",网球联合杯 网球联合杯Day3 清流 07:00
+#EXTINF:-1 tvg-id="中国vs加拿大 兹维列夫代表德国出战" tvg-name="网球联合杯 中国vs加拿大 兹维列夫代表德国出战 清流 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-明天",网球联合杯 中国vs加拿大 兹维列夫代表德国出战 清流 07:00
 http://192.168.0.109:1111/962091872
-#EXTINF:-1 tvg-id="网球联合杯Day3" tvg-name="网球联合杯 网球联合杯Day3 英文解说 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-明天",网球联合杯 网球联合杯Day3 英文解说 07:00
+#EXTINF:-1 tvg-id="中国vs加拿大 兹维列夫代表德国出战" tvg-name="网球联合杯 中国vs加拿大 兹维列夫代表德国出战 英文解说 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-明天",网球联合杯 中国vs加拿大 兹维列夫代表德国出战 英文解说 07:00
 http://192.168.0.109:1111/962091882
-#EXTINF:-1 tvg-id="网球联合杯Day3" tvg-name="网球联合杯 网球联合杯Day3 清流 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-明天",网球联合杯 网球联合杯Day3 清流 15:00
+#EXTINF:-1 tvg-id="中国vs加拿大 兹维列夫代表德国出战" tvg-name="网球联合杯 中国vs加拿大 兹维列夫代表德国出战 清流 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-明天",网球联合杯 中国vs加拿大 兹维列夫代表德国出战 清流 15:00
 http://192.168.0.109:1111/962107013
 #EXTINF:-1 tvg-id="猛龙VS老鹰" tvg-name="NBA 猛龙VS老鹰 金哲豪 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 猛龙VS老鹰 金哲豪 08:25
 http://192.168.0.109:1111/961468368
