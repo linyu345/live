@@ -263,14 +263,14 @@ http://192.168.0.109:1111/962107764
 http://192.168.0.109:1111/962107626
 #EXTINF:-1 tvg-id="巴列卡诺VS赫塔菲" tvg-name="西甲 巴列卡诺VS赫塔菲 全场回放 (洪宇青) 03:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-昨天",西甲 巴列卡诺VS赫塔菲 全场回放 (洪宇青) 03:45
 http://192.168.0.109:1111/962107757
-#EXTINF:-1 tvg-id="张之臻男单闪耀！中国2-1比利时" tvg-name="网球联合杯 张之臻男单闪耀！中国2-1比利时 2026网球联合杯全场回放：澳大利亚2-1挪威（英文解说） 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-昨天",网球联合杯 张之臻男单闪耀！中国2-1比利时 2026网球联合杯全场回放：澳大利亚2-1挪威（英文解说） 07:00
-http://192.168.0.109:1111/962119381
-#EXTINF:-1 tvg-id="张之臻男单闪耀！中国2-1比利时" tvg-name="网球联合杯 张之臻男单闪耀！中国2-1比利时 2026网球联合杯全场回放：澳大利亚2-1挪威 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-昨天",网球联合杯 张之臻男单闪耀！中国2-1比利时 2026网球联合杯全场回放：澳大利亚2-1挪威 07:00
-http://192.168.0.109:1111/962119225
 #EXTINF:-1 tvg-id="张之臻男单闪耀！中国2-1比利时" tvg-name="网球联合杯 张之臻男单闪耀！中国2-1比利时 【全场回放】比利时1-2中国 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-昨天",网球联合杯 张之臻男单闪耀！中国2-1比利时 【全场回放】比利时1-2中国 07:00
 http://192.168.0.109:1111/962115260
 #EXTINF:-1 tvg-id="张之臻男单闪耀！中国2-1比利时" tvg-name="网球联合杯 张之臻男单闪耀！中国2-1比利时 【全场回放】比利时1-2中国（英文解说） 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-昨天",网球联合杯 张之臻男单闪耀！中国2-1比利时 【全场回放】比利时1-2中国（英文解说） 07:00
 http://192.168.0.109:1111/962115066
+#EXTINF:-1 tvg-id="张之臻男单闪耀！中国2-1比利时" tvg-name="网球联合杯 张之臻男单闪耀！中国2-1比利时 【全场回放】澳大利亚2-1挪威（英文解说） 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-昨天",网球联合杯 张之臻男单闪耀！中国2-1比利时 【全场回放】澳大利亚2-1挪威（英文解说） 07:00
+http://192.168.0.109:1111/962119381
+#EXTINF:-1 tvg-id="张之臻男单闪耀！中国2-1比利时" tvg-name="网球联合杯 张之臻男单闪耀！中国2-1比利时 【全场回放】澳大利亚2-1挪威 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/12/28/1000000010041064c3cd.jpg" group-title="体育-昨天",网球联合杯 张之臻男单闪耀！中国2-1比利时 【全场回放】澳大利亚2-1挪威 07:00
+http://192.168.0.109:1111/962119225
 #EXTINF:-1 tvg-id="步行者VS马刺" tvg-name="NBA 步行者VS马刺 全场回放 (徐秦威) 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-昨天",NBA 步行者VS马刺 全场回放 (徐秦威) 07:55
 http://192.168.0.109:1111/962109161
 #EXTINF:-1 tvg-id="步行者VS马刺" tvg-name="NBA 步行者VS马刺 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-昨天",NBA 步行者VS马刺 全场回放（英文原声） 07:55
@@ -401,52 +401,32 @@ http://192.168.0.109:1111/962117863
 http://192.168.0.109:1111/962118151
 #EXTINF:-1 tvg-id="萨索洛VS帕尔马" tvg-name="意甲 萨索洛VS帕尔马 全场回放（谭逸雄) 21:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-昨天",意甲 萨索洛VS帕尔马 全场回放（谭逸雄) 21:45
 http://192.168.0.109:1111/962118693
-#EXTINF:-1 tvg-id="热那亚VS比萨" tvg-name="意甲 热那亚VS比萨 【全场回放】 热那亚vs比萨 (吴奕博) 21:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-昨天",意甲 热那亚VS比萨 【全场回放】 热那亚vs比萨 (吴奕博) 21:45
+#EXTINF:-1 tvg-id="热那亚VS比萨" tvg-name="意甲 热那亚VS比萨 全场回放（吴奕博） 21:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-昨天",意甲 热那亚VS比萨 全场回放（吴奕博） 21:45
 http://192.168.0.109:1111/962118969
-#EXTINF:-1 tvg-id="狼队VS西汉姆联" tvg-name="英超 狼队VS西汉姆联 【全场回放】 狼队vs西汉姆联 (刘焕) 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天",英超 狼队VS西汉姆联 【全场回放】 狼队vs西汉姆联 (刘焕) 22:45
+#EXTINF:-1 tvg-id="狼队VS西汉姆联" tvg-name="英超 狼队VS西汉姆联 全场回放(刘焕) 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天",英超 狼队VS西汉姆联 全场回放(刘焕) 22:45
 http://192.168.0.109:1111/962119183
 #EXTINF:-1 tvg-id="布莱顿VS伯恩利" tvg-name="英超 布莱顿VS伯恩利 全场回放 (苗锟) 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天",英超 布莱顿VS伯恩利 全场回放 (苗锟) 22:45
 http://192.168.0.109:1111/962119142
 #EXTINF:-1 tvg-id="奥萨苏纳VS毕尔巴鄂竞技" tvg-name="西甲 奥萨苏纳VS毕尔巴鄂竞技 全场回放 (唐晖) 23:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-昨天",西甲 奥萨苏纳VS毕尔巴鄂竞技 全场回放 (唐晖) 23:00
 http://192.168.0.109:1111/962119106
-#EXTINF:-1 tvg-id="尤文图斯VS莱切" tvg-name="意甲 尤文图斯VS莱切 吴桐 刘腾 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 尤文图斯VS莱切 吴桐 刘腾 00:30
-http://192.168.0.109:1111/962099909
-#EXTINF:-1 tvg-id="尤文图斯VS莱切" tvg-name="意甲 尤文图斯VS莱切 赛场原声 00:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 尤文图斯VS莱切 赛场原声 00:45
-http://192.168.0.109:1111/962099886
-#EXTINF:-1 tvg-id="尤文图斯VS莱切" tvg-name="意甲 尤文图斯VS莱切 吴桐 刘腾 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 尤文图斯VS莱切 吴桐 刘腾 00:30
-http://192.168.0.109:1111/962099933
-#EXTINF:-1 tvg-id="伯恩茅斯VS阿森纳" tvg-name="英超 伯恩茅斯VS阿森纳 颜强 徐阳 李子琪 01:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伯恩茅斯VS阿森纳 颜强 徐阳 李子琪 01:00
-http://192.168.0.109:1111/962101023
-#EXTINF:-1 tvg-id="伯恩茅斯VS阿森纳" tvg-name="英超 伯恩茅斯VS阿森纳 陈凯冬 何辉 01:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伯恩茅斯VS阿森纳 陈凯冬 何辉 01:20
-http://192.168.0.109:1111/962101010
-#EXTINF:-1 tvg-id="伯恩茅斯VS阿森纳" tvg-name="英超 伯恩茅斯VS阿森纳 英文原声 01:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伯恩茅斯VS阿森纳 英文原声 01:15
-http://192.168.0.109:1111/962101006
-#EXTINF:-1 tvg-id="伯恩茅斯VS阿森纳" tvg-name="英超 伯恩茅斯VS阿森纳 赛场原声 01:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伯恩茅斯VS阿森纳 赛场原声 01:15
-http://192.168.0.109:1111/962100998
-#EXTINF:-1 tvg-id="埃尔切VS比利亚雷亚尔" tvg-name="西甲 埃尔切VS比利亚雷亚尔 兰子非 01:15" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-今天",西甲 埃尔切VS比利亚雷亚尔 兰子非 01:15
-http://192.168.0.109:1111/962099750
-#EXTINF:-1 tvg-id="埃尔切VS比利亚雷亚尔" tvg-name="西甲 埃尔切VS比利亚雷亚尔 赛场原声 01:15" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-今天",西甲 埃尔切VS比利亚雷亚尔 赛场原声 01:15
-http://192.168.0.109:1111/962099738
-#EXTINF:-1 tvg-id="尼斯VS斯特拉斯堡" tvg-name="法甲 尼斯VS斯特拉斯堡 邵煊 01:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 尼斯VS斯特拉斯堡 邵煊 01:45
-http://192.168.0.109:1111/962099096
-#EXTINF:-1 tvg-id="尼斯VS斯特拉斯堡" tvg-name="法甲 尼斯VS斯特拉斯堡 赛场原声 01:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 尼斯VS斯特拉斯堡 赛场原声 01:45
-http://192.168.0.109:1111/962099114
-#EXTINF:-1 tvg-id="亚特兰大VS罗马" tvg-name="意甲 亚特兰大VS罗马 石庆圣 李彦 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 亚特兰大VS罗马 石庆圣 李彦 03:30
-http://192.168.0.109:1111/962099957
-#EXTINF:-1 tvg-id="亚特兰大VS罗马" tvg-name="意甲 亚特兰大VS罗马 赛场原声 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 亚特兰大VS罗马 赛场原声 03:30
-http://192.168.0.109:1111/962099951
-#EXTINF:-1 tvg-id="西班牙人VS巴塞罗那" tvg-name="西甲 西班牙人VS巴塞罗那 张昊泽 李欣 03:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-今天",西甲 西班牙人VS巴塞罗那 张昊泽 李欣 03:45
-http://192.168.0.109:1111/962099771
-#EXTINF:-1 tvg-id="西班牙人VS巴塞罗那" tvg-name="西甲 西班牙人VS巴塞罗那 赛场原声 03:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-今天",西甲 西班牙人VS巴塞罗那 赛场原声 03:45
-http://192.168.0.109:1111/962099767
-#EXTINF:-1 tvg-id="西班牙人VS巴塞罗那" tvg-name="西甲 西班牙人VS巴塞罗那 张昊泽 李欣 03:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-今天",西甲 西班牙人VS巴塞罗那 张昊泽 李欣 03:45
-http://192.168.0.109:1111/962099786
-#EXTINF:-1 tvg-id="里尔VS雷恩" tvg-name="法甲 里尔VS雷恩 张天翼 03:50" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 里尔VS雷恩 张天翼 03:50
-http://192.168.0.109:1111/962099127
-#EXTINF:-1 tvg-id="里尔VS雷恩" tvg-name="法甲 里尔VS雷恩 赛场原声 03:50" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 里尔VS雷恩 赛场原声 03:50
-http://192.168.0.109:1111/962099137
-#EXTINF:-1 tvg-id="里尔VS雷恩" tvg-name="法甲 里尔VS雷恩 张天翼 03:50" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 里尔VS雷恩 张天翼 03:50
-http://192.168.0.109:1111/962099146
+#EXTINF:-1 tvg-id="摩纳哥VS里昂" tvg-name="法甲 摩纳哥VS里昂 全场回放 (乔迁) 23:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 摩纳哥VS里昂 全场回放 (乔迁) 23:45
+http://192.168.0.109:1111/962119468
+#EXTINF:-1 tvg-id="尤文图斯VS莱切" tvg-name="意甲 尤文图斯VS莱切 全场回放 (吴桐、刘腾) 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 尤文图斯VS莱切 全场回放 (吴桐、刘腾) 00:30
+http://192.168.0.109:1111/962119631
+#EXTINF:-1 tvg-id="伯恩茅斯VS阿森纳" tvg-name="英超 伯恩茅斯VS阿森纳 全场回放（颜强、徐阳、李子琪） 01:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伯恩茅斯VS阿森纳 全场回放（颜强、徐阳、李子琪） 01:15
+http://192.168.0.109:1111/962119740
+#EXTINF:-1 tvg-id="伯恩茅斯VS阿森纳" tvg-name="英超 伯恩茅斯VS阿森纳 全场回放 （陈凯冬、何辉） 01:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伯恩茅斯VS阿森纳 全场回放 （陈凯冬、何辉） 01:15
+http://192.168.0.109:1111/962119974
+#EXTINF:-1 tvg-id="埃尔切VS比利亚雷亚尔" tvg-name="西甲 埃尔切VS比利亚雷亚尔 全场回放(兰子非) 01:15" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-今天",西甲 埃尔切VS比利亚雷亚尔 全场回放(兰子非) 01:15
+http://192.168.0.109:1111/962119640
+#EXTINF:-1 tvg-id="尼斯VS斯特拉斯堡" tvg-name="法甲 尼斯VS斯特拉斯堡 全场回放 (邵煊) 01:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 尼斯VS斯特拉斯堡 全场回放 (邵煊) 01:45
+http://192.168.0.109:1111/962119653
+#EXTINF:-1 tvg-id="亚特兰大VS罗马" tvg-name="意甲 亚特兰大VS罗马 全场回放 (石庆圣、李彦) 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 亚特兰大VS罗马 全场回放 (石庆圣、李彦) 03:30
+http://192.168.0.109:1111/962119962
+#EXTINF:-1 tvg-id="西班牙人VS巴塞罗那" tvg-name="西甲 西班牙人VS巴塞罗那 全场回放 (张昊泽、李欣) 03:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-今天",西甲 西班牙人VS巴塞罗那 全场回放 (张昊泽、李欣) 03:45
+http://192.168.0.109:1111/962119997
+#EXTINF:-1 tvg-id="里尔VS雷恩" tvg-name="法甲 里尔VS雷恩 全场回放 (张天翼) 03:50" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 里尔VS雷恩 全场回放 (张天翼) 03:50
+http://192.168.0.109:1111/962119970
 #EXTINF:-1 tvg-id="热火VS森林狼" tvg-name="NBA 热火VS森林狼 刘圳展 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 热火VS森林狼 刘圳展 05:55
 http://192.168.0.109:1111/961468302
 #EXTINF:-1 tvg-id="热火VS森林狼" tvg-name="NBA 热火VS森林狼 英文原声 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 热火VS森林狼 英文原声 05:55
